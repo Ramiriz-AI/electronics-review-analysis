@@ -371,6 +371,8 @@ For the deployed dashboard, the main dependencies are:
 streamlit
 pandas
 plotly
+openpyxl
+streamlit-searchbox
 ```
 
 The complete NLP and AI processing pipeline may additionally use:
