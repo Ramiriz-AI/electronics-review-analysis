@@ -12,8 +12,8 @@ from pathlib import Path
 # KONFIGURASI HALAMAN
 # ---------------------------------------------------------
 st.set_page_config(
-    page_title="Cari HP — Spek & Review",
-    page_icon="📱",
+    page_title="Cari Produk — Spek & Review",
+    page_icon="🔍",
     layout="centered",
 )
 
@@ -109,7 +109,7 @@ div[data-testid="column"] .stButton button:hover {
 }
 div[data-testid="column"] .stButton button:hover p { color: var(--accent) !important; }
 
-/* tombol biasa (bukan chip di grid kolom), misal "Cari HP lain" & "tampilkan lebih banyak" */
+/* tombol biasa (bukan chip di grid kolom), misal "Cari Perangkat lain" & "tampilkan lebih banyak" */
 .stButton button {
     color: var(--text) !important;
     background: var(--surface) !important;
