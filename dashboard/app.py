@@ -850,7 +850,7 @@ elif st.session_state.selected_product_id is None:
     st.markdown(
         """
         <div class="empty-hint">
-            🔍 Cari smartphone atau laptop pada kolom pencarian di atas.
+            🔍 Cari produk pada kolom pencarian di atas.
         </div>
         """,
         unsafe_allow_html=True,
