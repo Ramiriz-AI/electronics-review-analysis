@@ -452,7 +452,11 @@ Possible future improvements include:
 
 ## Author
 
-**Ramiriz**
+**M. Razhel Miroza**
+
+Computer Science Student
+
+**Wanda Hamidah**
 
 Computer Science Student
 
