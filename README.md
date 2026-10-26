@@ -1,8 +1,9 @@
 # AI-Powered Electronics Review Analysis
 
 An AI-powered web application for analyzing smartphone and laptop reviews using Natural Language Processing (NLP), sentiment analysis, aspect extraction, and Large Language Models (LLMs).
-
 The application allows users to search for electronic products and explore product information, specifications, customer reviews, sentiment analysis results, aspect-based insights, and AI-generated summaries.
+
+Strealit Domain: **https://electronics-review-analysis-3zqyuxzoaw5dtmsmkpeuyi.streamlit.app/**
 
 ---
 
